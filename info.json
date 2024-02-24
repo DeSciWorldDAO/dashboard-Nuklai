@@ -1,1 +1,29 @@
-
+{"name":"Nuklai",
+"tokenSymbol":"$NAI",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Nuklai is a collaborative data marketplace and the infrastructure provider for data ecosystems. It brings together the power of community-driven data analysis with the datasets of some of the most successful modern businesses. The marketplace allows both grassroots data enthusiasts, SMEs and institutional partners to access new data sources as well as ways to put your own untapped data to use. This allows them to gain new insights, find new revenue streams within the boundaries of regulations as well as stay within the framework of their own data governance.",
+"whitePaperLink":"https://docs.nukl.ai/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://imgur.com/snPPqIe",
+       "source": "image",
+       "link": "https://www.nukl.ai/blog"
+   }
+],
+"deleted":false,
+"primaryColor":"#0f81f0",
+"twitterHandle":"NuklaiData",
+"coingeckoId":"",
+"snapshotId":"",
+"squareLogo":"https://imgur.com/AhvLdRy",
+"logo":"https://imgur.com/9y474Wx",
+"telegramLink":"https://t.me/NuklaiOfficial",
+"discordLink":"",
+"website":"https://www.nukl.ai/",
+"tokenDescription":"NAI is used to power the Nuklai L1 and subnets for data economies. This includes validator nodes, data consortiums and tools and services such as decentralised compute.",
+"tokenTradeLink":"",
+"tags":["Ecosystems", "Blockchain protocols", "Decentralized Computing"]
+  
+}
