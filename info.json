@@ -7,7 +7,7 @@
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://imgur.com/snPPqIe",
+       "mediaUrl": "https://i.imgur.com/snPPqIe.png",
        "source": "image",
        "link": "https://www.nukl.ai/blog"
    }
@@ -17,8 +17,8 @@
 "twitterHandle":"NuklaiData",
 "coingeckoId":"",
 "snapshotId":"",
-"squareLogo":"https://imgur.com/AhvLdRy",
-"logo":"https://imgur.com/9y474Wx",
+"squareLogo":"https://i.imgur.com/AhvLdRy.png",
+"logo":"https://i.imgur.com/9y474Wx.jpg",
 "telegramLink":"https://t.me/NuklaiOfficial",
 "discordLink":"",
 "website":"https://www.nukl.ai/",
